@@ -13,7 +13,7 @@
 }
 
 .background {
-    background: black;
+    background: rgb(161, 64, 145);
     background-blend-mode: darken;
     background-size: cover;
 }
@@ -62,13 +62,13 @@
 }
 
 .firstsection {
-    background-color: green;
-    height: 400px;
+    background-color: rgb(247, 153, 239);
+    padding: 40px;
 }
 
 .secondsection {
-    background-color: blue;
-    height: 400px;
+    background-color: rgb(252, 165, 255);
+    padding: 40px;
 }
 
 .box-main {
