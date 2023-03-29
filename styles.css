@@ -32,13 +32,14 @@
 }
 
 .logo img {
-    width: 4em;
+    width: 2em;
     border-radius: 50px;
 }
 
 .nav-list li {
     list-style: none;
     padding: 26px 30px;
+    font-size:larger;
 }
 
 .nav-list li a {
@@ -57,19 +58,7 @@
 
 .secondsection {
     background-color: rgb(252, 165, 255);
-    padding: 40px;
-}
-
-.firsthalf {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.secondhalf {
-    width: 30%;
-    display: flex;
+    padding: 5em;
 }
 
 .secondhalf img {
@@ -93,7 +82,7 @@
 }
 
 .section {
-    height: 400px;
+    height: 10em;
     display: flex;
     align-items: center;
     justify-content: center;
